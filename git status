@@ -1,0 +1,23 @@
+[33mcommit 061ccf4befa5dfb532dcb7c38fd06771fbe7ab15[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sekar Salsabila SP <sekar.salsabilasp@gmail.com>
+Date:   Thu Jan 19 20:17:28 2023 +0700
+
+    modified style.css to make light theme
+
+[33mcommit 2fd984645dc7f84708752b249f88052eb9a83ee0[m
+Author: Sekar Salsabila SP <sekar.salsabilasp@gmail.com>
+Date:   Thu Jan 19 20:09:46 2023 +0700
+
+    modified style.css to make dark theme
+
+[33mcommit 6d3096e0ab5991c2d8ab0f6b6fbb360a940318c9[m
+Author: Sekar Salsabila SP <sekar.salsabilasp@gmail.com>
+Date:   Thu Jan 19 19:43:12 2023 +0700
+
+    create style.css
+
+[33mcommit c207664299a9cc0fa51e7c1a5cac60ed1fcd9245[m
+Author: Sekar Salsabila SP <sekar.salsabilasp@gmail.com>
+Date:   Thu Jan 19 19:41:09 2023 +0700
+
+    create app.js and index.html
